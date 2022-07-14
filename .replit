@@ -1,1 +1,2 @@
-"author" : "Shahzia",
+language = "nodejs"
+run = "npm start"
